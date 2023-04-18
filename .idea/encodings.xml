@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/FileUpload/TCPClient.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/FileUpload/UI/MainUI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/client/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/gui/client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/gui/server.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/myutil/Protocol.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/qiandao/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/qiandao/Server.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/server/HandleClient.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/server/View.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/shiyan7/RobotScreenTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/shiyan7/ScreenClient.java" charset="GBK" />
+  </component>
+</project>

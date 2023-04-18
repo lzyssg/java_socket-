@@ -1,3 +1,5 @@
+## 不知道为啥readme图片加载不出来 图片放在raw文件夹下
+
 ## ui设计
 
 ![image-20230418145436985](E:\socket\raw\master\images\image-20230418145436985.png)
@@ -13,6 +15,7 @@
 ![image-20230418144837943](E:\socket\raw\master\images\image-20230418144837943.png)
 
 ## 说明
+
 
 JLabel1是视频聊天
 

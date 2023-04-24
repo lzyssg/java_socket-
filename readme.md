@@ -4,17 +4,16 @@
 
 ## ui设计
 
-![image-20230418145436985](E:\socket\raw\master\images\image-20230418145436985.png)
+![](https://github.com/lzyssg/photos/blob/master/test%5C20230424233639.png?raw=true)
 
-![image-20230418145456264](E:\socket\raw\master\images\image-20230418145456264.png)
+![](https://github.com/lzyssg/photos/blob/master/test%5C20230424233651.png)
 
 ## 运行效果图
 
-![image-20230418144730039](E:\socket\raw\master\images\image-20230418144730039.png)
+![](https://github.com/lzyssg/photos/blob/master/test%5C20230424233702.png)
 
-![image-20230418144748404](E:\socket\raw\master\images\image-20230418144748404.png)
+![](https://github.com/lzyssg/photos/blob/master/test%5C20230424233713.png)
 
-![image-20230418144837943](E:\socket\raw\master\images\image-20230418144837943.png)
 
 ## 说明
 
